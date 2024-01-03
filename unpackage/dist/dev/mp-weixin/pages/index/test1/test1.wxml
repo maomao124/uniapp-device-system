@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['button1',['$event']]]]]}}" bindtap="__e">异步获取系统信息</button></view>
